@@ -1,4 +1,4 @@
-# Welcome to my Blog
+# Welcome to my blog!
 
 ## Day 1 - 10.08.2020
 
